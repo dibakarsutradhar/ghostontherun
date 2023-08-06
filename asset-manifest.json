@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ghostontherun/static/css/main.cdcb37e2.css",
+    "main.js": "/ghostontherun/static/js/main.0c36f675.js",
+    "static/js/787.d9ddca2e.chunk.js": "/ghostontherun/static/js/787.d9ddca2e.chunk.js",
+    "index.html": "/ghostontherun/index.html",
+    "main.cdcb37e2.css.map": "/ghostontherun/static/css/main.cdcb37e2.css.map",
+    "main.0c36f675.js.map": "/ghostontherun/static/js/main.0c36f675.js.map",
+    "787.d9ddca2e.chunk.js.map": "/ghostontherun/static/js/787.d9ddca2e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cdcb37e2.css",
+    "static/js/main.0c36f675.js"
+  ]
+}
