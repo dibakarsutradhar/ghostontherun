@@ -11,8 +11,8 @@ const Sidebar: FunctionComponent<SidebarProps> = () => {
 			<a href="/wardrobe">WARDROBE</a>
 			<a href="/tracks">TRACK COURSES</a>
 			<a href="/driver">DRIVER</a>
-			<a href="#">BLOG</a>
-			<a href="#">FAQ</a>
+			{/* <a href="#">BLOG</a> */}
+			{/* <a href="#">FAQ</a> */}
 		</div>
 	);
 };
